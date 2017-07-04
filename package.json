@@ -1,0 +1,24 @@
+{
+  "name": "anos",
+  "version": "0.0.1",
+  "description": "A tiny javascript age calculator.",
+  "main": "anos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabendukarmakar/anos.git"
+  },
+  "keywords": [
+    "javascript",
+    "age calculator",
+    "dates"
+  ],
+  "author": "Nabendu Karmakar (hello@nabendukarmakar.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nabendukarmakar/anos/issues"
+  },
+  "homepage": "https://github.com/nabendukarmakar/anos#readme"
+}
