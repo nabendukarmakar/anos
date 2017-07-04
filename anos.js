@@ -43,7 +43,7 @@
         return { y: dYear, m: dMonth, d: dDays };
     }
     function age(b) {
-        return d(b, new Date());
+        return diff(b, new Date());
     }
     return {
         age: age,
