@@ -25,7 +25,6 @@
     function diff(a, b) {
         var _avd = vd(a); if (!_avd.s) { throw ve(_avd.e); }
         var _bvd = vd(b); if (!_bvd.s) { throw ve(_bvd.e); }
-        var diff = { d: 0, m: 0, y: 0 };
         var aYear = a.getUTCFullYear(), aMonth = a.getUTCMonth(), aDays = a.getUTCDate();
         var bYear = b.getUTCFullYear(), bMonth = b.getUTCMonth(), bDays = b.getUTCDate();
         var dYear, dMonth, dDays;
